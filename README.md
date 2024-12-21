@@ -26,7 +26,7 @@ The **Book Management** project is a simple library management application devel
 ## 🏁 Installation Guide
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/Sample-project_Book-Management.git
+   git clone https://github.com/nguyenngoctufpt/Sample-project_Book-Management.git
    Set up the database:
 
 Create a library_management database in MySQL.
